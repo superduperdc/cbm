@@ -1,7 +1,7 @@
 export default [
   {
     "id": 1,
-    "name": "PC",
+    "name": "All Available",
     "slug": "pc",
     "platforms": [
       {
@@ -16,86 +16,10 @@ export default [
       }
     ]
   },
-  {
-    "id": 2,
-    "name": "PlayStation",
-    "slug": "playstation",
-    "platforms": [
-      {
-        "id": 187,
-        "name": "PlayStation 5",
-        "slug": "playstation5",
-        "games_count": 819,
-        "image_background": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
-        "image": null,
-        "year_start": 2020,
-        "year_end": null
-      },
-      {
-        "id": 18,
-        "name": "PlayStation 4",
-        "slug": "playstation4",
-        "games_count": 6590,
-        "image_background": "https://media.rawg.io/media/games/c4b/c4b0cab189e73432de3a250d8cf1c84e.jpg",
-        "image": null,
-        "year_start": null,
-        "year_end": null
-      },
-      {
-        "id": 16,
-        "name": "PlayStation 3",
-        "slug": "playstation3",
-        "games_count": 3323,
-        "image_background": "https://media.rawg.io/media/games/456/456dea5e1c7e3cd07060c14e96612001.jpg",
-        "image": null,
-        "year_start": null,
-        "year_end": null
-      },
-      {
-        "id": 15,
-        "name": "PlayStation 2",
-        "slug": "playstation2",
-        "games_count": 1970,
-        "image_background": "https://media.rawg.io/media/games/683/6833fbb183fd72a61c032501e3bc6d36.jpg",
-        "image": null,
-        "year_start": null,
-        "year_end": null
-      },
-      {
-        "id": 27,
-        "name": "PlayStation",
-        "slug": "playstation1",
-        "games_count": 1606,
-        "image_background": "https://media.rawg.io/media/games/0c5/0c5fcdf04048200da14b90e0e6cfaf6b.jpg",
-        "image": null,
-        "year_start": null,
-        "year_end": null
-      },
-      {
-        "id": 19,
-        "name": "PS Vita",
-        "slug": "ps-vita",
-        "games_count": 1667,
-        "image_background": "https://media.rawg.io/media/games/be0/be084b850302abe81675bc4ffc08a0d0.jpg",
-        "image": null,
-        "year_start": null,
-        "year_end": null
-      },
-      {
-        "id": 17,
-        "name": "PSP",
-        "slug": "psp",
-        "games_count": 1438,
-        "image_background": "https://media.rawg.io/media/games/a6c/a6cd31267a20a615d35f618e766208fc.jpg",
-        "image": null,
-        "year_start": null,
-        "year_end": null
-      }
-    ]
-  },
+  
   {
     "id": 3,
-    "name": "Xbox",
+    "name": "My Selected",
     "slug": "xbox",
     "platforms": [
       {
@@ -142,7 +66,7 @@ export default [
   },
   {
     "id": 4,
-    "name": "iOS",
+    "name": "Not Selected by Me",
     "slug": "ios",
     "platforms": [
       {
@@ -159,7 +83,7 @@ export default [
   },
   {
     "id": 8,
-    "name": "Android",
+    "name": "Some other selection...",
     "slug": "android",
     "platforms": [
       {
