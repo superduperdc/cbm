@@ -90,7 +90,7 @@ export default [
   },
 
   {
-    "id": 84,
+    "id": 13,
     "name": "Urinals",
     "slug": "platformer",
     "games_count": 105652,
